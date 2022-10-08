@@ -1,4 +1,5 @@
 
+![image](https://user-images.githubusercontent.com/29319041/194730939-f50dc3e2-ea75-478c-b26e-e878a1ea007a.png)
 # Women techsters mini project
 <hr>
 this is a small asssignment for the women techsters fellowship ( frontend track ) <br>
